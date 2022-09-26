@@ -20,9 +20,9 @@ public class A {
 		System.out.println(a - b);
 	}
 	
-	public static void mul(int a, int b, int c)
+	public static void mul(int a, int b, int c, int d)
 	{
-		System.out.println("Multiplication is : "+a * b * c);
+		System.out.println("Multiplication is : "+a * b * c * d);
 		//alskdjlksa
 		//laksjdlk
 	}
