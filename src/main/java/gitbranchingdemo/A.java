@@ -22,8 +22,9 @@ public class A {
 	
 	public static void mul(int a, int b)
 	{
-		System.out.println(a * b);
+		System.out.println("Multiplication is : "+a * b);
 		//alskdjlksa
+		//laksjdlk
 	}
 
 }
